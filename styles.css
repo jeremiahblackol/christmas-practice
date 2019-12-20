@@ -48,6 +48,10 @@ p {
   border-bottom: 4px solid white;
 }
 
+.clicked-status {
+  border-bottom: 4px solid white;
+}
+
 .appear-img {
 
 }
