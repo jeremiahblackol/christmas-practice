@@ -1,9 +1,21 @@
 * {
+  font-family: 'Inria Serif', serif;
+  color: white;
+}
 
+.body {
+  position: relative;
+  padding: 0;
 }
 
 .header-styles {
-
+  background-color: gray;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 7em;
+  font-size: 2em;
+  padding-left: 10px;
 }
 
 .subtitle-styles {
@@ -11,5 +23,5 @@
 }
 
 .appear-img {
-  
+
 }
